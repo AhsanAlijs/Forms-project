@@ -1,0 +1,81 @@
+.main{
+    text-align: center;
+    justify-content: center;
+}
+
+.image{
+    display: block;
+    margin: 0 auto;
+    background: transparent;
+}
+
+
+
+.step1{
+    border: 2px solid black;
+    padding: 6px;
+    text-align: center;
+    width: 9cm;
+    display: block;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+.table{
+    padding: 6px;
+    border-radius: 5px;
+    width: 35em;
+    display: block;
+    margin: 0 auto;
+    font-weight: bolder;
+    font-size: larger;
+
+}
+
+input{
+    width: 550px;
+    border-color: rgb(231, 231, 231);
+    padding:5px;
+}
+
+.btn1{
+    display: flex;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+   
+}
+
+.blok{
+    width: 13px;
+}
+.core{
+    font-size: 20px;
+    font-weight: 500px;
+}
+
+.step2{
+    width: 480px;
+}
+
+.table2{
+    padding: 6px;
+    border-radius: 5px;
+    width: 33em;
+    display: block;
+    margin: 0 auto;
+    font-weight: bolder;
+    font-size: larger;
+
+}
+.rad{
+    width: 20px;
+}
+
+.box{
+    width: 40px;
+}
+
+legend{
+    border-radius: 30px 20px 40px 10px;
+}
